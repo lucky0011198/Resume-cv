@@ -1,0 +1,140 @@
+{
+  "name": "Laxmikant varkal",
+  "fullname": "Laxmikant somnath varkal",
+  "Gmail": "varkallaxmikant62@gmail.com",
+  "contact": [
+    "9325750978",
+    "8999309449"
+  ],
+  "linkedIn": "https://www.linkedin.com/in/laxmikant-varkal-489a8a1a5/",
+  "github": "https://github.com/lucky0011198",
+  "website": "https://lucky0011198.github.io/lucks-Profile-demo/",
+  "headline": "Creative mindset , Quick learner",
+  "summary": "My name is Laxmikant varkal, I’m 22 years old and I  am  currently pursuing degree . I like to learn new things. Being knowledgeable about any subject is an ongoing process, and I’m always proactive about seeking new opportunities to develop and grow in my role",
+  "Skills": [
+    {
+      "id": "0f6f2d0c-e286-42ca-ae83-225548068bdd",
+      "name": "html and css",
+      "level": "advance",
+      "keywords": [],
+      "levelNum": 9
+    },
+    {
+      "id": "b2cdc3f9-19b8-466f-8d00-e34c5436b95c",
+      "name": "javascript",
+      "level": "intermediat",
+      "keywords": [],
+      "levelNum": 6
+    },
+    {
+      "id": "a1bbdfb9-8342-41b8-8e88-c06cfe9d657a",
+      "name": "React js / React native ",
+      "level": "intermediat",
+      "keywords": [],
+      "levelNum": 8
+    },
+    {
+      "id": "e43ed180-4378-4308-a9eb-7ccd08f89d51",
+      "name": "Python ",
+      "level": "beginner",
+      "keywords": [],
+      "levelNum": 4
+    },
+    {
+      "id": "4e864fdb-05e2-44a9-bb13-6f3648a92d2f",
+      "name": "java",
+      "level": "beginner",
+      "keywords": [],
+      "levelNum": 3
+    }
+  ],
+  "location": {
+    "city": "Solapur",
+    "region": "Maharashtra",
+    "address": "388/3 A new vidi garkul Solapur",
+    "country": "India",
+    "postalCode": "413006"
+  },
+  "Projects": {
+    "MegaProject": [
+      {
+        "name": "Class-360",
+        "subTitle": "student data managment system",
+        "Tag": "Final year Project",
+        "type": "Android app",
+        "link": ""
+      },
+      {
+        "name": "Attendance App",
+        "subTitle": "Attendance Managemant System",
+        "Tag": "Final year Project",
+        "type": "Android app",
+        "link": ""
+      }
+    ],
+    "MiniProject": [
+      {
+        "name": "Wedding Card",
+        "subTitle": "",
+        "Tag": "react js",
+        "type": "Website",
+        "link": "https://reverent-golick-04598a.netlify.app/"
+      },
+      {
+        "name": "web-development-blog",
+        "subTitle": "",
+        "Tag": "html-css-javascript",
+        "type": "website",
+        "link": "https://lucky0011198.github.io/web-development-blog/"
+      },
+      {
+        "name": "cv/resume",
+        "subTitle": "",
+        "Tag": "react js",
+        "type": "website",
+        "link": ""
+      },
+      {
+        "name": "Top-Tab-Bar",
+        "Tag": "react js",
+        "type": "npm package",
+        "link": "https://react-5fufwq.stackblitz.io/"
+      }
+    ]
+  },
+  "Education": [
+    {
+      "institution": "walchand institute of technology",
+      "score": "75%",
+      "degree": "B.Tech",
+      "area": "electronic and engineering",
+      "university": "solapur university",
+      "date": {
+        "end": "2022",
+        "start": "2019"
+      }
+    },
+    {
+      "area": "Electroniic and telecommunication",
+      "date": {
+        "end": "2019",
+        "start": "2016"
+      },
+      "score": "70.68",
+      "degree": "Diploma",
+      "university": "solapur university",
+      "institution": "solapur Education sociaty polytechnic"
+    },
+    {
+      "institution": "ghodavari parulaker prashala",
+      "degree": "ssc",
+      "area": "10nth",
+      "score": "73.40%",
+      "date": {
+        "start": "2015",
+        "end": "2016"
+      },
+      "university": "solapur university"
+    }
+  ]
+}
